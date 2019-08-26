@@ -1,0 +1,8 @@
+.table tr td,.table tr th{
+  text-align:center;
+}
+.book_thumb{
+  width:40px;
+  height:40px;
+  margin:0 auto;
+}
