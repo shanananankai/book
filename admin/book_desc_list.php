@@ -51,7 +51,6 @@ $chapter_data = $db
     ->where(['bookid'=>$book_id,'is_delete'=>0])->limit($start,$limit)->all();
 
 
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
