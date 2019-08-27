@@ -91,7 +91,7 @@ class Uploads
 
     if(!is_dir($this->path))
     {
-      mkdir($this->path,0777,true);
+      mkdir($this->path,0744,true);
     }
 
     //判断文件是否是通过http post上传上来

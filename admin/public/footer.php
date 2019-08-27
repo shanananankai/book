@@ -1,6 +1,6 @@
 <footer>
     <hr>
-    <p>&copy; 2018  &nbsp;<a href="https://shankai.top" target="_blank">shankai.top</a></p>
+    <p>&copy;<?php echo $config['company']?><a href="https://shankai.top" target="_blank"><?php echo $config['author']?></a></p>
 </footer>
 
         </div>

@@ -21,10 +21,10 @@ if($act == "logout")
   </head>
 
   <body>
-    
+
     <!-- 引入头部 -->
     <?php include_once('public/header.php');?>
-    
+
     <?php include_once('public/menu.php');?>
 
     <div class="content">
@@ -37,11 +37,30 @@ if($act == "logout")
         </ul>
 
         <div class="container-fluid">
+
             <div class="row-fluid">
-                <?php foreach ($config as $k => $v){?>
-                    <div><?php echo $k.' : '.$v?></div>
-                <?php }?>
+                <div class="btn-toolbar">
+                    <button class="btn btn-primary" onClick="location='index_edit.php'"><i class="icon-plus"></i> 修改配置</button>
+                    <div class="btn-group">
+                    </div>
+                </div>
+
+
+                <div class="well">
+                    <div id="myTabContent" class="tab-content">
+                        <div class="tab-pane active in" id="home">
+                            <img class="img-responsive" src="<?php echo isset($config['logo']) && !empty($config['logo']) ? ASSETS_PATH.$config['logo'] : '' ;?>" />
+                            <?php foreach ($config as $k => $v){?>
+                                <div><?php echo $k.' : '.$v?></div>
+                            <?php }?>
+                        </div>
+                    </div>
+                </div>
+
+
+
             </div>
+
         </div>
 
         <div class="container-fluid">

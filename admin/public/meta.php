@@ -1,9 +1,9 @@
 <meta charset="utf-8">
-<title>小说网</title>
+<title><?php echo $config['title']?></title>
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="小说" />
-<meta name="author" content="h1902" />
+<meta name="description" content="<?php echo $config['description']?>" />
+<meta name="author" content="<?php echo $config['author']?>" />
 
 
 <!-- css样式 -->
