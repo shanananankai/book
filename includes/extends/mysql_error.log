@@ -125,3 +125,27 @@
 [2019-08-26 18:26] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
 [2019-08-27 10:26] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
 [2019-08-27 18:58] SQL错误：Column count doesn't match value count at row 9
+[2019-08-28 14:45] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:47] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:47] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:47] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:47] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:48] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:48] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:48] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:48] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:48] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:48] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:48] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,20' at line 1
+[2019-08-28 14:51] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,1' at line 1
+[2019-08-28 14:53] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,1' at line 1
+[2019-08-28 14:53] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,1' at line 1
+[2019-08-28 14:53] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,1' at line 1
+[2019-08-28 14:54] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,1' at line 1
+[2019-08-28 14:56] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,1' at line 1
+[2019-08-28 15:11] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[2019-08-28 15:11] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[2019-08-28 15:52] SQL错误：Unknown column 'chapterid' in 'where clause'
+[2019-08-28 15:52] SQL错误：Unknown column 'chapterid' in 'where clause'
+[2019-08-28 15:52] SQL错误：Unknown column 'chapterid' in 'where clause'
+[2019-08-28 16:00] SQL错误：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1,1' at line 1

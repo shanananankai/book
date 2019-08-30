@@ -6,9 +6,9 @@
   <meta content="telephone=no" name="format-detection" />
   <meta http-equiv="Cache-Control" content="no-transform" />
   <meta http-equiv="Cache-Control" content="no-siteapp" />
-  <title>小说网</title>
-  <meta name="keywords" content="小说网">
-  <meta name="description" content="小说网">
+  <title><?php echo $config['title']?></title>
+  <meta name="keywords" content="<?php echo $config['keywords']?>">
+  <meta name="description" content="<?php echo $config['description']?>">
 
   <link rel="stylesheet" href="<?php echo HOME_PATH;?>/css/m.css" />
 
