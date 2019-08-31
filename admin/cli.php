@@ -19,6 +19,9 @@ if($_POST){
 <html lang="en">
   <head>
     <?php include_once('public/meta.php');?>
+
+    <link rel="stylesheet" href="<?php echo ADMIN_PATH;?>/stylesheets/flat_ui_tag.css">
+
   </head>
 
   <body> 
@@ -83,7 +86,14 @@ if($_POST){
                                 </select>
 
                                 <label>集数</label>
-                                <input type="text" name="collect"  class="input-xxlarge" placeholder="集数" />
+                                <div class="form-item">
+                                    <div class="box">
+                                        <div class="tagsinput-primary form-group">
+                                            <input name="collect" id="tagsinputval" class="tagsinput" data-role="tagsinput" placeholder="输入后回车" />
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
 
                             <label style="margin-top: 15px;"></label>
@@ -105,7 +115,10 @@ if($_POST){
                         }
                     });
                 </script>
- <?php include_once('public/footer.php');?>
+
+<script src="<?php echo ADMIN_PATH;?>/js/flat_ui_tag.js"></script>
+
+<?php include_once('public/footer.php');?>
 
 
 
