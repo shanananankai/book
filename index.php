@@ -19,8 +19,8 @@ include_once("common.php");
       <div class="tab-news-hd tab-hd-index">
             <ul class="fix">
                 <li class="on">斗罗大陆</li>
-                <li>斗破穹苍</li>
-                <li>无脑小说</li>
+                <li>天蚕土豆</li>
+                <li>完美世界</li>
             </ul>
         </div>
         <div class="tab-news-con">

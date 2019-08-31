@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
-  <Code>NoSuchKey</Code>
-  <Message>The specified key does not exist.</Message>
-  <RequestId>5D692C78146F3894AE0F9FC3</RequestId>
-  <HostId>kmcomic-outlink.oss-cn-hangzhou.aliyuncs.com</HostId>
-  <Key>comic/W/武动乾坤/第249话F/20.jpg</Key>
-</Error>

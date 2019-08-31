@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
-  <Code>NoSuchKey</Code>
-  <Message>The specified key does not exist.</Message>
-  <RequestId>5D62A7BD8B72B19CFD398A6E</RequestId>
-  <HostId>zymkcomic.oss-cn-hangzhou.aliyuncs.com</HostId>
-  <Key>comic/D/斗破苍穹拆分版/792话GQ/40.jpg</Key>
-</Error>
