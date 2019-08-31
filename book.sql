@@ -11,7 +11,7 @@
  Target Server Version : 50726
  File Encoding         : 65001
 
- Date: 31/08/2019 12:03:00
+ Date: 31/08/2019 15:50:11
 */
 
 SET NAMES utf8mb4;
@@ -110,13 +110,6 @@ CREATE TABLE `pre_chapter` (
   CONSTRAINT `foreign_chapter_bookid` FOREIGN KEY (`bookid`) REFERENCES `pre_book` (`id`) ON DELETE CASCADE ON UPDATE NO ACTION,
   CONSTRAINT `pre_chapter_ibfk_1` FOREIGN KEY (`bookid`) REFERENCES `pre_book` (`id`) ON DELETE CASCADE ON UPDATE NO ACTION
 ) ENGINE=InnoDB AUTO_INCREMENT=172 DEFAULT CHARSET=utf8 COMMENT='章节表';
-
--- ----------------------------
--- Records of pre_chapter
--- ----------------------------
-BEGIN;
-INSERT INTO `pre_chapter` VALUES (171, 1567223352, '斗罗大陆2绝世唐门493话', './img_load.php?book_id=31&collect=493话', 31, 0);
-COMMIT;
 
 -- ----------------------------
 -- Table structure for pre_config
